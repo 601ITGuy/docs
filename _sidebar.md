@@ -1,2 +1,3 @@
 - [Read Me](README)
+- [Kasm Install](Kasm_Install)
 - [Example Second Page](second-page)
